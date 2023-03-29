@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/Mehwishmushtaq/client/static/css/main.073c9b0a.css",
-    "main.js": "/Mehwishmushtaq/client/static/js/main.3a288104.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/Mehwishmushtaq/client/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/logo.svg": "/Mehwishmushtaq/client/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Mehwishmushtaq/client/static/css/main.4b157c83.css",
+    "main.js": "/Mehwishmushtaq/client/static/js/main.611917ce.js",
+    "static/media/loader.gif": "/Mehwishmushtaq/client/static/media/loader.2756b378761d57523ebd.gif",
     "index.html": "/Mehwishmushtaq/client/index.html",
-    "main.073c9b0a.css.map": "/Mehwishmushtaq/client/static/css/main.073c9b0a.css.map",
-    "main.3a288104.js.map": "/Mehwishmushtaq/client/static/js/main.3a288104.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/Mehwishmushtaq/client/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.4b157c83.css.map": "/Mehwishmushtaq/client/static/css/main.4b157c83.css.map",
+    "main.611917ce.js.map": "/Mehwishmushtaq/client/static/js/main.611917ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3a288104.js"
+    "static/css/main.4b157c83.css",
+    "static/js/main.611917ce.js"
   ]
 }
